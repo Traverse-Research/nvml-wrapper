@@ -3,3 +3,6 @@ members = [
     "nvml-wrapper",
     "nvml-wrapper-sys"
 ]
+
+[patch.crates-io]
+wrapcenum-derive = { git = "https://github.com/Traverse-Research/wrapcenum-derive", rev = "5bf97e7" }
