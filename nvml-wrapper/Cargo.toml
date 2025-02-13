@@ -10,7 +10,7 @@ license = "MIT OR Apache-2.0"
 edition = "2021"
 rust-version = "1.60.0"
 
-keywords = ["nvidia", "gpu", "managment", "monitoring", "hardware"]
+keywords = ["nvidia", "gpu", "management", "monitoring", "hardware"]
 categories = ["api-bindings", "hardware-support"]
 
 [features]
